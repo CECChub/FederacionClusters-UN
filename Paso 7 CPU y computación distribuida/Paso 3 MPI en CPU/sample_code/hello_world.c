@@ -17,7 +17,7 @@ int main(int argc, char **argv)
     char hostname[HOST_NAME_MAX + 1];
     int result = gethostname(hostname, sizeof(hostname));
 
-    if (result == 0)
+    if (result != 0)
     {
         printf("Hostname: %s\n", hostname);
     }
