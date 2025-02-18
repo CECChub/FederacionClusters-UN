@@ -1,0 +1,13 @@
+uname -a 
+ls -lta
+file mat_mul.exe
+ldd ./mat_mul.exe
+./mat_mul.exe
+./mat_mul.exe &
+fg
+./mat_mul.exe > multiplicacion.txt
+./mat_mul.exe > multiplicacion.txt &
+top -p 159687
+
+
+
