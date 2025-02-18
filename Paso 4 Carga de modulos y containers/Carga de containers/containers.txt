@@ -1,0 +1,12 @@
+salloc -Mbiocomputo pcpu.normal.q
+ssh hercules2
+ls /localapps/
+ls /localapps/ViennaRNA_RNAz.sif
+mkdir TestViennaRNA
+cd TestViennaRNA
+nano test
+cat test
+singularity shell /localapps/ViennaRNA_RNAz.sif
+RNAfold < test
+RNAfold -p --MEA < test
+exit
