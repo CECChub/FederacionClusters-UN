@@ -1,0 +1,19 @@
+module load MPI/openmpi/4.1.1
+sinfo -a
+salloc -Mqteorica -pgpu.cecc -N1^C
+squeue -u estebanh
+ssh egeo-023
+
+nvcc --version
+nvidia-smi -l
+cd gpu_mpi/
+cd cuda_mpi_simple/
+
+make clean
+make
+module load MPI/openmpi/4.1.1
+make
+
+mpirun ./mpi_cuda.exe & nvidia-smi -l
+
+
