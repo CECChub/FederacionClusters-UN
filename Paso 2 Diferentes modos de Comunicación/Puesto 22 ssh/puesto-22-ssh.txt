@@ -1,0 +1,8 @@
+ssh -XC Lpage@cecc.una.edu.co
+ssh perseus
+
+ssh-keygen -t rsa -b 2048
+/home/Lpage/.ssh/id_rsa_cecc
+cat /home/Lpage/.ssh/id_rsa_cecc.pub | ssh Lpage@cecc.unal.edu.co 'cat >> ~/.ssh/authorized_keys'
+cat /home/Lpage/.ssh/config
+ssh Lpage@168.176.34.122
