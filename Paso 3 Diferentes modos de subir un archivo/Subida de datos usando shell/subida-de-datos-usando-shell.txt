@@ -1,0 +1,1 @@
+ rsync -avr --progress ./Analisis_De_Presiones_evolutivas/*-csv acontrerasq@168.176.34.122:~/Documents/Curso
