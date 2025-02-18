@@ -1,0 +1,3 @@
+sinfo
+sinfo -M fisica
+man sinfo
