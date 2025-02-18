@@ -1,0 +1,5 @@
+ssh acontreras@168.176.34.122
+cd /scratchsan/acontrerasq/GPU/
+cp -r 268448544/ ~/Documents/Curso/GPU/
+scp -r acontreras@168.176.34.122:~/Documents/Curso/GPU/268448544 /home/armando_contreras/Documents/Curso
+exit 
