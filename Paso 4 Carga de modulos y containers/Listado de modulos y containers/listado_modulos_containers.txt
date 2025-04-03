@@ -1,0 +1,22 @@
+module avail 
+module load apps/blast/2.9
+module list 
+gcc --version
+module load lang/gcc/9.2
+gcc --version
+module unload apps/blast/2.9
+module list
+module purge 
+module list
+module avail 
+module load envs/anaconda3
+python 
+conda env list 
+
+ls /localapps/
+export SINGULARITY_BINPATH="/scratchsan:/scratchsan"
+singularity shell /localapps/SSS-test.sif
+SSS-test
+
+nano run_SSS_test.sh
+sbatch run_SSS_test.sh
