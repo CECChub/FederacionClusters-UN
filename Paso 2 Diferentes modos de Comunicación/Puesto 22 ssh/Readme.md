@@ -1,3 +1,3 @@
-Supongo que este directorio hace referencioa al siguiente video
+INGRESO SSH
 
-https://drive.google.com/file/d/12pwzqTu1ZRnfOaLwKRZ3EWTO01DPcMaV/view?usp=drive_link
+https://drive.google.com/file/d/1Q6F3hmOoEVar93dDwXSketAl-jaq0hqA/view?usp=drive_link
