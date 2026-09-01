@@ -1,1 +1,3 @@
-https://drive.google.com/file/d/1T9GICehIgqEqWH-LyVhV5V9T2ysr65rB/view?usp=drive_link
+INTRODUCCIÓN OPEN MP
+
+https://drive.google.com/file/d/1Wlf2BLyPV-thGnZwfGgxhtI_0fNPXIWt/view?usp=sharing
