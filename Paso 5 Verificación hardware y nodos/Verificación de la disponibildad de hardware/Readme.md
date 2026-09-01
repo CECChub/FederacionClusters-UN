@@ -1,1 +1,3 @@
-https://drive.google.com/file/d/1dylFMhXSkqe2z8nrnND6k2HgdYMrMYxt/view?usp=drive_link
+DISPONIBILIDAD DE HARDWARE
+
+https://drive.google.com/file/d/1dJlapd9FKib5kuOomDph26qEYllH58L-/view?usp=drive_link
