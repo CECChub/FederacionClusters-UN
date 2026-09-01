@@ -1,1 +1,3 @@
-https://drive.google.com/file/d/194zjZqHmqaWp1hHSO2UJlyx3XItHs8Kz/view?usp=drive_link
+CONFIGURACIÓN DE PROCESOS PARA CORRIDA EN SLURM USANDO CPU SERIAL
+
+https://drive.google.com/file/d/1I9CznIWiolR791ZTAZ0NIcScDkw9woYg/view?usp=drive_link
